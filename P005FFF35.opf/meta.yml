@@ -1,0 +1,28 @@
+id: P005FFF35
+initial_creation_type: input
+source_metadata:
+  title: Sakya Trichen
+  language: de
+  description: 'Texts by and about Kyabgön Sakya Gongma Rinpoche, Ngawang Kunga Tekchen
+    Palbar (ngag dbang kun dga'' theg chen dpal ''bar, b. 1945), the 41st Sakya Trizin:'
+  volume:
+    da892b12a9fb43679ed66087bdef2a3e:
+      title: A Prayer for the Long Life of Ngawang Kunga Tekchen Palbar Trinlé Wangi
+        Gyalpo, the Lord of Refuge and Precious Holder of the Throne of the Drolma
+        Palace at Glorious Sakya
+      parent: Long Life Prayers
+    8b0b85b524b3410c90b8de4f3dc0420b:
+      title: Gentle Rain of the Nectar of Immortality
+      parent: Long Life Prayers
+    9544bcc2fa3f46a196ad223602404b86:
+      title: Prayer for the Long Life of His Holiness the Fourteenth Dalai Lama
+      parent: Long Life Prayers
+    77d110a7d4a742d3a437efbcbd5b3b44:
+      title: Prayer for the Long Life of Kyabgön Sakya Trichen
+      parent: Long Life Prayers
+    20d13a19ac954516a6995b86a987a82b:
+      title: 'Cymbals to Invoke a Compassionate Response: A Prayer for Swift Rebirth
+        of Khandro Tsering Chödrön'
+      parent: Swift Rebirth Prayers
+created_at: '2022-03-01T01:27:56.820571'
+last_modified_at: '2022-03-01T01:27:56.820573'
